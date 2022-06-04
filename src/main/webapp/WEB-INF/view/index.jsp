@@ -72,28 +72,28 @@
 
                     <li>
                         <span class="notice-title">
-                            <a href="notice/detail.html">스프링 DI 예제 코드</a>
+                            <a href="notice/detail">스프링 DI 예제 코드</a>
                         </span>
                         <span>2019-08-15</span>
                     </li>
 
                     <li>
                         <span class="notice-title">
-                            <a href="notice/detail.html">뉴렉쌤 9월 초 국기과정 모집 안내</a>
+                            <a href="notice/detail">뉴렉쌤 9월 초 국기과정 모집 안내</a>
                         </span>
                         <span>2019-06-11</span>
                     </li>
 
                     <li>
                         <span class="notice-title">
-                            <a href="notice/detail.html">뉴렉처 강의 수강 방식 안내</a>
+                            <a href="notice/detail">뉴렉처 강의 수강 방식 안내</a>
                         </span>
                         <span>2019-05-24</span>
                     </li>
 
                     <li>
                         <span class="notice-title">
-                            <a href="notice/detail.html">자바 구조적인 프로그래밍 강의 예제 파일</a>
+                            <a href="notice/detail">자바 구조적인 프로그래밍 강의 예제 파일</a>
                         </span>
                         <span>2019-04-24</span>
                     </li>

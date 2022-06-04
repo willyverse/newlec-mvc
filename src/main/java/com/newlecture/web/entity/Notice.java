@@ -11,14 +11,8 @@ public class Notice {
 	private int hit;
 	private String files;
 	
-	public Notice() {
-		
-	}
+	public Notice() {}
 	
-	
-
-
-
 	public Notice(int id, String title, String writerId, Date regDate, String content, int hit, String files) {
 		super();
 		this.id = id;
@@ -29,10 +23,6 @@ public class Notice {
 		this.hit = hit;
 		this.files = files;
 	}
-
-
-
-
 
 	public int getId() {
 		return id;
@@ -78,8 +68,4 @@ public class Notice {
 	public void setFiles(String files) {
 		this.files = files;
 	}
-	
-	
-	
-	
 }
